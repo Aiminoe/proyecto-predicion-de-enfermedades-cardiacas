@@ -150,6 +150,6 @@ This project demonstrates:
 
 *This project demonstrates machine learning and predictive analytics skills applicable to healthcare, insurance, research, and data science roles.*
 
-*Available for custom ML projects, healthcare analytics, and data science consulting.*
+*Available for custom ML projects, healthcare analytics, and data science consulting.* 
 ```
 
